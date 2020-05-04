@@ -34,4 +34,4 @@ I know that is not related to CSCI3251, but I like music game.
 | Tone Sphere | 3/5 | Y |
 
 ***Screenshot:***
-!(To be filled)
+![](https://github.com/csci3251-2020/student-1155125854/blob/master/milestone2.png)
